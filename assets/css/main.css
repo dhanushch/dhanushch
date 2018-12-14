@@ -40,6 +40,10 @@ a:hover {
   text-decoration: none;
 }
 
+.logo-main{
+max-width: 100%;
+  height: auto;
+}
 a a:focus {
   outline: none;
 }
